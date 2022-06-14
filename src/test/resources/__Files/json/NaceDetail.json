@@ -1,0 +1,17 @@
+{
+        "order":"398481",
+        
+	        "detail":{
+	        
+	         "Level": "1",
+	         "Code": "A",
+	         "Parent": "",
+	         "Description":"AGRICULTURE, FORESTRY AND FISHING",
+	         "ThisItemIncludes": "This section includes the exploitation of vegetal and animal natural resources, comprising the activities of growing of crops, raising and breeding of animals, harvesting of timber and other plants, animals or animal products from a farm or their natural habitats.",
+	         "ThisItemAlsoIncludes": "",
+	         "Rulings": "",
+	         "ThisItemExcludes": "",
+	         "ReferenceToISIC_Rev_4": "A"
+      }
+   
+}
